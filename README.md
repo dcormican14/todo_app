@@ -1,1 +1,1 @@
-# todo_app
+# Simple TODO App
