@@ -1,0 +1,16 @@
+.todo-block {
+    display: flex;
+    list-style-type: none;
+    padding: 6px 0 0 0;
+    margin: 12px 0 0 0;
+    background-color: #42032C;
+    border: 8px;
+    border-radius: 12px;
+}
+
+.todo-content {
+    max-width: 200px;
+    margin: 0 auto 0 auto;
+    user-select: none;
+}
+

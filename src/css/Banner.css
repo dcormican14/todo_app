@@ -1,0 +1,20 @@
+.Banner {
+    background-color: #42032C;
+}
+
+.Banner-header {
+    min-height: 10vh;
+    font-family: honeyFont;
+    color: #E6D2AA;
+    display: inline-flex;
+}
+
+.Banner-logo {
+    max-width: 80px;
+    margin: 8px;
+}
+
+.Title-text {
+    margin: auto 8px auto 8px;
+    font-size: 3em;
+}
