@@ -1,16 +1,17 @@
 .Banner {
-    background-color: #42032C;
+    background-color: #452316;
 }
 
 .Banner-header {
     min-height: 10vh;
     font-family: honeyFont;
-    color: #E6D2AA;
+    color: #ecc498;
     display: inline-flex;
 }
 
 .Banner-logo {
-    max-width: 80px;
+    max-width: 60px;
+    max-height: 60px;
     margin: 8px;
 }
 

@@ -1,6 +1,6 @@
 .add-todo {
     display: flex;
-    background-color: #42032C;
+    background-color: #452316;
     margin: none;
     margin-bottom: 0;
     padding: 8px;
@@ -9,7 +9,7 @@
 }
 
 .input-field {
-    color: #fff2da;
+    color: #fcefeb;
     outline: none;
     background-color: transparent;
     font-size: calc(10px + 1.2vmin);
@@ -22,7 +22,7 @@
 }
 
 .todo-list {
-    background-color: #E6D2AA;
+    background-color: #ecc498;
     margin-top: 20px;
     padding: 6px;
     border: 12px;
@@ -30,8 +30,8 @@
 }
 
 .icon {
-    color: #F1EFDC;
-    width:35px;
-    height:35px;
+    color: #fcefeb;
+    width:30px;
+    height:30px;
     margin: 0;
 }
