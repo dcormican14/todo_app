@@ -1,14 +1,13 @@
-import Header from './Banner.js';
-import './css/App.css';
-import TodoList from './TodoList.js';
+import Banner from "./Banner";
+import TodoList from "./TodoList";
 
 export default function App() {
   return (
     <div className="App">
-      <Header />
-      <header className="App-header">
+      <div className="todo-wrapper">
+        <Banner />
         <TodoList />
-      </header>
+      </div> 
     </div>
   );
 }

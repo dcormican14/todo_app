@@ -1,15 +1,11 @@
-import logo from './img/honeycomb.png';
-import './css/Banner.css';
+import React from 'react'
 
-function Header() {
-  return (
-    <div className="Banner">
-      <header className="Banner-header">
-        <img src={logo} className="Banner-logo" alt='logo'></img>
-        <h1 className="Title-text">HONEY  TODO</h1>
-      </header>
-    </div>
-  );
+const Banner = () => {
+    return ( 
+        <div className="banner-wrapper">
+            <h1 className="banner-title"> TODO APP </h1>
+        </div>
+     );
 }
-
-export default Header;
+ 
+export default Banner;
